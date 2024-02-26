@@ -390,12 +390,10 @@
     }
 
     .white-bg {
-      background-image: url(../../wp-content/Innovate_HomepageBG.png);
       background-repeat: no-repeat;
       background-size: cover;
     }
     .white-bg2 {
-      background-image: url(../../wp-content/Learn_HomepageBG.png);
       background-repeat: no-repeat;
       background-size: cover;
     }
